@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x hello|
+mv /tmp/betty /tmp/holberton/
