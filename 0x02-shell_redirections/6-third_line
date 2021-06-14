@@ -1,0 +1,2 @@
+#!/bin/bash
+awk /'NR == numero_de_linea'/ iacta
